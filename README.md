@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Computer Science & Automation Engineer  
+Skilled in Algorithms, Embedded Systems & Industrial Control  
+Building intelligent and scalable systems from code to factory floor</p>
 
 ###
 
@@ -30,7 +32,7 @@
 
 ###
 
-<img align="right" height="171" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="171" src="[https://i.imgflip.com/65efzo.gif](https://th.bing.com/th/id/R.1d6b806de417a94ab2284135dd487a9a?rik=cypkXEnnJEFI8g&riu=http%3a%2f%2fimg.soogif.com%2fPA2bgSHZ2p2rOqOXASpURw1bSaMhbege.gif&ehk=GAi%2fX8K4q2ByOGHLA%2bm1QJCGP0culidci0DAnl%2bKP2o%3d&risl=&pid=ImgRaw&r=0)"  />
 
 ###
 
